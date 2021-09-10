@@ -36,7 +36,7 @@ marty.make_withdraw(100)
 jake.make_deposit(1000)
 jake.make_withdraw(300)
 jake.make_withdraw(200)
-jake.make_withdraw(100)
+jake.make_withdraw(200)
 
 print("guido's account balance: $" + str(guido.acount_balance))
 print("Marty's account balance: $" + str(marty.acount_balance))
